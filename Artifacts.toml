@@ -1,111 +1,111 @@
 [[libtree]]
 arch = "aarch64"
-git-tree-sha1 = "3b8369cd4892f1bf237da36b5839df8fff29fbbb"
+git-tree-sha1 = "ee6d902241dbfaaecde7d5aa86df8017efea23bb"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "4f3c280213b305098d6d3dc2a710649d4ea2f0e9f4430e506d7d5fd3710e2903"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "774c58dbd55e08891e8060261feddc26fd4043241d0b556150a124c7ef12f483"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.aarch64-linux-gnu.tar.gz"
 [[libtree]]
 arch = "aarch64"
-git-tree-sha1 = "8d75ecf1ba9d3e207da827328a3b294b5a0c6140"
+git-tree-sha1 = "acb6bc7af13f3b5f4b8243b46e36b70156285541"
 libc = "musl"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "d80a656f48e50f55876b6918067a507d0da372ece0042d500c026405925faff2"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "95289177916380277403f6af2a6ebb26eeb770947fabe117512121a779ea6794"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.aarch64-linux-musl.tar.gz"
 [[libtree]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e2245aed9dbdeb9039f12b277f7b1f3b2d7c6614"
+git-tree-sha1 = "4458824c54228cb91b388de974c44911b3a2d5b0"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "a5857008ffcf5eeb17b892d787e28abe741c9fb7e8a2bec3718da756a0fac29d"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2a245fbbd304a69649a870b6045c1b83dc25ea80a626590a3641ecc72682e219"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.armv6l-linux-gnueabihf.tar.gz"
 [[libtree]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b0b2f32e55561fdf814b6d9b73d565201170089f"
+git-tree-sha1 = "f3c04ce4902cf69ece59435617aa80cddc829134"
 libc = "musl"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "0046bf9d5d0914dd39f93b9d5078ae5a253a0655441ac3a62d117243c587c111"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "b415e768add6653746bca76d18cd0fa9f6b40b55125f6a56138ac7cf72fc9103"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.armv6l-linux-musleabihf.tar.gz"
 [[libtree]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "cd0c9f4a968cafdc0324e56836583d22aae40b7a"
+git-tree-sha1 = "d8fd7b192dd4e983aba03dda6896ab8f0956eb48"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "6b4ae3ec66f4e15515f87bbbeb5285a78b8fecd6decb1fb71c5c78b404b8d615"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e4226987e1c70d89b6e8cd203b9ad4599f985a3779e5fc6c730f981a0995e418"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.armv7l-linux-gnueabihf.tar.gz"
 [[libtree]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dc74bc8081cee6d4f80a2408840ac517ecd8333c"
+git-tree-sha1 = "ec9e7bf954657501ca549db832665ca695839727"
 libc = "musl"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "7cd1aff8f4790c300b3b771dd16e099bbdfce2de42645bc7179e17d8bb7a6723"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "d1dd386ed057f55d339996442247bb37e899e34ca7712c4fbaf080971bde3314"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.armv7l-linux-musleabihf.tar.gz"
 [[libtree]]
 arch = "i686"
-git-tree-sha1 = "e8d5be4062ae7ff335dab3b2e07d697406ac9814"
+git-tree-sha1 = "9574c37505863292b112a943ccbb3f88608d2c8c"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "0b3a4fac6c761cb4b124022868aafc22a4141a1b85db9f19dae31414507e7898"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "6ed1c2f0f280180f5f7a0b8ded39db31018253f8b62cb64bff8778989edb5108"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.i686-linux-gnu.tar.gz"
 [[libtree]]
 arch = "i686"
-git-tree-sha1 = "4c03de415f46094a61ef466b56dd496f6e80f668"
+git-tree-sha1 = "0b5d3b4f7bcd1244f2ef978f9e4cf4fc243128c8"
 libc = "musl"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "ee241720f3c0c70fb272c9358e790ea3260a168dc9670c5ef125fd90f530d3d0"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.i686-linux-musl.tar.gz"
+    sha256 = "62b2542ef7993eb9f07b6961ee7f08d2e03a1af7049c5c7fbfa713c178c328bd"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.i686-linux-musl.tar.gz"
 [[libtree]]
 arch = "powerpc64le"
-git-tree-sha1 = "eec5d8116d62867043adbcdf69a6fc356753c2d1"
+git-tree-sha1 = "d61e6137edfa3c8ae0261487e2eba805577860ea"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "b5459c634f29debb7631562ac0ad15e39da1c2ba183a72a9e19576b6e9c0c801"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "86d48201e7e2783041f9d0593e91f45f0f684738d51d75e4d25589b6fcf7c4d4"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.powerpc64le-linux-gnu.tar.gz"
 [[libtree]]
 arch = "x86_64"
-git-tree-sha1 = "14db7cd9b2fa5b47cdcbafc475a70b1d648ff7da"
+git-tree-sha1 = "64b9267a1bf36ab73934be621062c521e8a944fd"
 libc = "glibc"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "e43dbd014e2ac864fe869bdfeb5b41ef26eeb08941134e730bb9cdf0c18abd92"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "3c6c5effc24b687006ceddf75b614683f529d42db7bec98ecb61ab7089d6e79b"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.x86_64-linux-gnu.tar.gz"
 [[libtree]]
 arch = "x86_64"
-git-tree-sha1 = "4ffe22c847e2eb3e6af2fbdd9249af2f5f1d999d"
+git-tree-sha1 = "f55deb1a1532d136495fc6e79c4980a1b3dd35b4"
 libc = "musl"
 os = "linux"
 
     [[libtree.download]]
-    sha256 = "7c002bd229c05b07afd504eee0283aae9054ee9faebad12c26ab33b720c734f0"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "0e2feecd5e8ec4c701dbd4165d14820ad03b99093b5d67ca38097722677e0f31"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.x86_64-linux-musl.tar.gz"
 [[libtree]]
 arch = "x86_64"
-git-tree-sha1 = "caa2afed788836ac96c4d33af294df8be0dd4692"
+git-tree-sha1 = "9f38d79e53d2b2f0009a4e6901c32441cc601d88"
 os = "freebsd"
 
     [[libtree.download]]
-    sha256 = "23bafd628ce27605167383c72e9754af5dfb5bb58bc16a89d167fd4d9e3d77ad"
-    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.0+0/libtree.v3.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2dfabd4be4bb80afebb2ca61701555334f8a79bca75be960c0f650e10a8973db"
+    url = "https://github.com/JuliaBinaryWrappers/libtree_jll.jl/releases/download/libtree-v3.0.1+0/libtree.v3.0.1.x86_64-unknown-freebsd.tar.gz"
