@@ -1,6 +1,6 @@
 name = "libtree_jll"
 uuid = "210123e1-2ab9-5e3e-92f0-8698273d9eb6"
-version = "3.0.3+0"
+version = "3.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
